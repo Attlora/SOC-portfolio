@@ -5,7 +5,10 @@ The finance department has been faced with a phishing attack, and an employee ha
 This challenge aims to identify the threat group's TTPs and evaluate the impact of this attack.
 
 ## Objectives
-- 
+- Review an email sample to detect a phishing campaign.
+- Examine PCAP files to detect anomalous connections.
+- Analyse artifacts to identify TTPs.
+- Recover the information exfiltrated to know the impact of the attack.
 
 ## Tools used
 - Thunderbird
